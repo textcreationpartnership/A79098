@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties speech in the House of Lords in Parliament on Tuesday the 14. day of Decemb. 1641. For the raising of forces to reduce the Irish rebels to a loyall subjection. Also a letter sent by the Lord chiefe justices of Ireland to the House of Parliament, Decemb. 14. 1641. concerning their miserable and distressed estate in the county of Conno; the rebels being within 4. miles of Dublin. Likewise the copie of a letter sent from the major of Plimmouth [sic], discribing the insatiable cruelty of the rebels done to the Protestants in all places where they come.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79098</idno>
+            <idno type="STC">Wing C2789</idno>
+            <idno type="STC">Thomason E199_40</idno>
+            <idno type="STC">ESTC R9896</idno>
+            <idno type="EEBO-CITATION">99873628</idno>
+            <idno type="PROQUEST">99873628</idno>
+            <idno type="VID">157535</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157535)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E199[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties speech in the House of Lords in Parliament on Tuesday the 14. day of Decemb. 1641. For the raising of forces to reduce the Irish rebels to a loyall subjection. Also a letter sent by the Lord chiefe justices of Ireland to the House of Parliament, Decemb. 14. 1641. concerning their miserable and distressed estate in the county of Conno; the rebels being within 4. miles of Dublin. Likewise the copie of a letter sent from the major of Plimmouth [sic], discribing the insatiable cruelty of the rebels done to the Protestants in all places where they come.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Pym, John, 1584-1643.</author>
+                  <author>Ireland. Lords Justices and Council.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Greensmith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epitomes of "His Majesties speech, delivered to both Houses of Parliament the 14th. of December 1641" and two letters, together with "The report of Mr. John Pym .. concerning the affaires in Ireland.".</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157535:1" rendition="simple:additions"/>
+            <p>The Kings Maieſties SPEECH</p>
+            <p>In the Houſe of Lords in PARLIAMENT on <hi>Tueſday</hi> the 14. day of <hi>Decemb.</hi> 1641.</p>
+            <p>For the raiſing of Forces to reduce the <hi>Iriſh</hi> Rebels to a Loyall ſubjection.</p>
+            <p>Alſo a Letter ſent by the Lord chiefe Juſtices of <hi>Ireland</hi> to the Houſe of Parliament, <hi>Decemb.</hi> 14. 1641. concerning their miſerable and diſtreſſed eſtate in the County of <hi>Conn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> the Rebels being within 4. miles of <hi>Dublin.</hi>
+            </p>
+            <p>Likewiſe the Copie of a Letter ſent from the Major of <hi>Plim<g ref="char:EOLhyphen"/>mouth,</hi> diſcribing the inſatiable Cruelty of the Rebels done to the Proteſtants in all places where they come.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>John Greenſmith,</hi> 1641.</p>
+            <pb facs="tcp:157535:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:157535:2"/>
+            <head>His Majeſties Speech the 14. day of <hi>December,</hi> 1641.</head>
+            <opener>
+               <salute>My Lords and Gent.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He laſt time I was in this place J min<g ref="char:EOLhyphen"/>ded you to make what ſpeed you could to raiſe for<g ref="char:EOLhyphen"/>ces to reduce the <hi>Iriſh</hi> Rebels to a loyall ſubjection. The ſame J ſhall now inculcate, for J above all things in this world prize the peace and ſafety of my good Subjects, and of all rebel<g ref="char:EOLhyphen"/>lion J hate that of the Popiſh faction, J heare daily of the wofull eſtate of my Proteſtant Peo<g ref="char:EOLhyphen"/>ple in <hi>Jreland,</hi> and doe vnderſtand how my houſe of Commons have paſſed the Bill for raiſing of forces for this expedition; And that the Bill ſticketh with you my Lords, for which J give you no thankes; As to the Declaration I have no pleaſure in that, but that actions may be tranſ<g ref="char:EOLhyphen"/>acted in a matters of this conſequence.</p>
+            <argument>
+               <p>This is the full effect of the SPEECH.</p>
+            </argument>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:157535:3"/>
+            <head>The Report of Mr. <hi>John Pym</hi> Eſquire, and one of the Burgeſſes in the Parliament-houſe, to the <hi>Commit<g ref="char:EOLhyphen"/>tee</hi> concerning the affaires in <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>Till doth the Pro<g ref="char:EOLhyphen"/>teſtants eccho forth lamentable and wo<g ref="char:EOLhyphen"/>full complaints, and as it were deſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yre of ſafety. For it was reported to the <hi>Committee</hi> for <hi>Iriſh</hi> affayres that more Counties have col<g ref="char:EOLhyphen"/>lected their forces and joyne with the Rebels.</p>
+            <p>They are marched within foure miles of <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> pillaging of houſes and driving away Cat<g ref="char:EOLhyphen"/>tell, and ſtop the paſſage from whence they re<g ref="char:EOLhyphen"/>ceive proviſion, to the great griefe and feare of his Majeſties poore Subjects the Proteſtants of <hi>Ireland.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:157535:3"/>
+The Rebels made publike Proclamation and maintained it with a generall oath for to bee all true unto the Church of <hi>Rome;</hi> alſo they pro<g ref="char:EOLhyphen"/>claime and confeſſe that King <hi>Charles</hi> is their lawfull King and Governour, making a Proteſta<g ref="char:EOLhyphen"/>tion. They tooke up Armes in defence of their Religion, not in any m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lice againſt his Majeſty, to which intent they ſpake to the Lord <hi>Dillon</hi> to ſend Letters to the King, but this can be no leſſe then diſſimulation, for they which love the King will not perſecute his Liege people by fire and Sword, as they have, and daily doe, and yet would they make us believe they love the King. From their power Lord keepe him for ever, and never let him be ſo vnfortunate as to fall into their hands, for then upon my life J am perſwaded they would exile from their hearts both duty, Love, and mercy, two Sunnes muſt not ſhine in one Climate, <hi>Tyrone</hi> muſt have nothing to doe where King <hi>Charles</hi> hath authority</p>
+            <p>Although now hee exalt himſelfe as his Fa<g ref="char:EOLhyphen"/>ther did before him. Let him quickly returne to his Spaniſh preferment, from <hi>England, Scot<g ref="char:EOLhyphen"/>land,</hi> or <hi>Ireland.</hi>
+            </p>
+            <p>Other Letters came, that the Rebels expect Ammunition from forraine parts, that the old Proverb may be made true, the Devill helpes his ſervants.</p>
+            <p>
+               <pb facs="tcp:157535:4"/>
+Wherefore the Lord ChiefeJuſtices of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> deſired the Parliament to ſend their poore Subjects and friends ſome reliefe of men and money, about which there did ariſe ſome de<g ref="char:EOLhyphen"/>bate concerning ſending of men out of this Kingdome, I meane alſo concerning a preſſe un<g ref="char:EOLhyphen"/>leſſe it were done by Act of Parliament, but now it is reſolved upon the queſtion that ayd ſhall be ſpeedily ſent unto the poore afflicted Proteſtants of <hi>Ireland,</hi> the Commanders in <hi>London</hi> looke every day when their Commiſſi<g ref="char:EOLhyphen"/>on ſhould be ſealed up, and then they enter in<g ref="char:EOLhyphen"/>to pay.</p>
+            <p>Their fingers itch untill they are amongſt the Rebels to quell their pride, and releaſe the Proteſtants from their bondage, in which mind that they may alwaies keepe I pray.</p>
+         </div>
+         <div type="letter">
+            <head>There was a Letter ſent from the Major of <hi>Plimenth</hi> to this effect.</head>
+            <p>THat the Rebels had ſeazed upon divers ſtrong Caſtles and Forts, and call themſelves ambi<g ref="char:EOLhyphen"/>tiouſly the Queenes Army.</p>
+            <p>Oh impudence: what an unheard of large Kingdome haſt thou?</p>
+            <p>Thou haſt uſurped the Dominions of conſci<g ref="char:EOLhyphen"/>ence, as for Piety thou haſt juſt nothing to do<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with it.</p>
+            <p>
+               <pb facs="tcp:157535:4"/>
+Thou art daughter to pride, and thy Father was a bloody murtherer.</p>
+            <p>Thou haſt joyned iſſue with the inhumane Rebels of <hi>Ireland,</hi> elſe would they not have da<g ref="char:EOLhyphen"/>red to have prophaned the name of our Queene in ſo trecherous a deſigne.</p>
+            <p>The Rebels want Armes, not above halfe of them are Armed according unto Martiall Diſ<g ref="char:EOLhyphen"/>cipline, the reſt ſome arme themſelves with skanes, others Dung-forks, others Pick-<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xes, n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t having any thing elſe to defend their bodies, wherefore ſhould the <hi>Engliſh</hi> and <hi>Scottiſh</hi> ſupplies make haſt, they might eaſily be over<g ref="char:EOLhyphen"/>throwne.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:157535:5"/>
+            <head>A Letter ſent by the Lord chiefe Iuſtices to the Parliament upon the 14. day of <hi>Decemb.</hi> 1641.</head>
+            <p>ON which day came Letters to this pur<g ref="char:EOLhyphen"/>poſe, Relating the dolefull perſecution the Proteſtants of <hi>Ireland</hi> by the Re<g ref="char:EOLhyphen"/>bels, beſides that in the County of <hi>Conne,</hi> they cut of the Members of men, Raviſh the women, put out their eyes, ſlit their noſes, and they are upon March, and are arrived within foure miles of <hi>Dublin.</hi>
+            </p>
+            <p>
+               <hi>Confound them O Lord as thou didſt the Hoſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Aſſyrians, let them not tryumph over the tribe of Iudah, turne thy face O Lord from their ſinnes and ours, ſettle peace O Lord a<g ref="char:EOLhyphen"/>mongſt them there, and wee beſeech thee continue is here, that with one voice and one heart we may praiſe and glorifie thy Holy name.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
